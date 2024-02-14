@@ -33,7 +33,7 @@ function App() {
         {showGif ? (
           <img src={catgif} alt='catgif' />
         ) : (
-          <img src='cat.jpg' alt='cat-image' />
+          <img src='cat.jpg' alt='cat-picture' />
         )}
       </div>
       <h1>Will you be my valentines? (Try to press no :D)</h1>
